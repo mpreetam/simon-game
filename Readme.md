@@ -1,17 +1,12 @@
 # SIMON GAME
-
 It is a javascript based browser game. Originally Simon is an electronic game board created in 1978. Read more about the Simon here : https://en.wikipedia.org/wiki/Simon_(game)
 
 
-
-##Installation:
-
+## Installation:
 Fork this repo and clone to your local machine. Open the index.html file with any browser and start playing.
 
 
-
 ## Play:
-
 First of all turn on the power.
 Now you have two options Strict mode and normal mode. If want to play strict mode click on 'STRICT'.
 Press the Start button.    
@@ -23,5 +18,4 @@ To win the game you have to correctly choose 20 lights in sequence.
 
 
 ## Winners:
-
 Congratulations! You have a great memory.
